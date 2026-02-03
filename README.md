@@ -1,1 +1,2 @@
 # svg_digitizer_for_gempy
+This code showcases a few simple utility functions to extract points of curves from svg paths to generate Gempy imput. It is not thoroughly tested and is no offical addon of Gempy. It was tested for SVG files created in inkscape and containing ONLY the lines to be digitized.
